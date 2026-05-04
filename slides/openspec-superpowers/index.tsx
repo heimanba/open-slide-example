@@ -730,6 +730,7 @@ const Problem: Page = () => (
           </div>
         </div>
         <div
+          className="os-drift"
           style={{
             display: 'flex',
             justifyContent: 'center',
